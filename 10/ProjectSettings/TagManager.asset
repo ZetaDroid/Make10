@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Number
+  - Block
+  - ten
+  - Box
+  - Mult
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Box
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Bg
+    uniqueID: 1227605603
+    locked: 0
+  - name: Box
+    uniqueID: 3782766531
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Number
+    uniqueID: 328252179
+    locked: 0
